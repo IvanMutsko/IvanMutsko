@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, my name Ivan Mutsko!
 I am a Front End developer. 
 I like solve interesting problems and find the best solutions)
 
